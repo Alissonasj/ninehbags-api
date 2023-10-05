@@ -3,6 +3,7 @@ const server = express();
 const products = require("./products.json");
 
 server.get("/products", (req, resp) => {
+    resp.setHeader("Access-Control-Allow-Origin", "*");
     return resp.json(products);
 });
 
