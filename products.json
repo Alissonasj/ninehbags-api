@@ -3,36 +3,42 @@
         "id": "1",
         "name": "Moon Bag",
         "price": "R$ 99,00",
-        "img": "https://i.postimg.cc/VsxZLq2B/product.jpg"
+        "img": "https://i.postimg.cc/VsxZLq2B/product.jpg",
+        "category": "moon"
     },
     {
         "id": "2",
         "name": "Moon Bag",
         "price": "R$ 99,00",
-        "img": "https://i.postimg.cc/VsxZLq2B/product.jpg"
+        "img": "https://i.postimg.cc/VsxZLq2B/product.jpg",
+        "category": "moon"
     },
     {
         "id": "3",
         "name": "Moon Bag",
         "price": "R$ 99,00",
-        "img": "https://i.postimg.cc/VsxZLq2B/product.jpg"
+        "img": "https://i.postimg.cc/VsxZLq2B/product.jpg",
+        "category": "moon"
     },
     {
         "id": "4",
         "name": "Moon Bag",
         "price": "R$ 99,00",
-        "img": "https://i.postimg.cc/VsxZLq2B/product.jpg"
+        "img": "https://i.postimg.cc/VsxZLq2B/product.jpg",
+        "category": "moon"
     },
     {
         "id": "5",
         "name": "Moon Bag",
         "price": "R$ 99,00",
-        "img": "https://i.postimg.cc/VsxZLq2B/product.jpg"
+        "img": "https://i.postimg.cc/VsxZLq2B/product.jpg",
+        "category": "moon"
     },
     {
         "id": "6",
         "name": "Moon Bag",
         "price": "R$ 99,00",
-        "img": "https://i.postimg.cc/VsxZLq2B/product.jpg"
+        "img": "https://i.postimg.cc/VsxZLq2B/product.jpg",
+        "category": "moon"
     }
 ]
